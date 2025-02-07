@@ -32,6 +32,9 @@ body{
     text-decoration: none;
     list-style: none;
 }
+.nav li:hover{
+cursor: pointer;
+}
 .leftopt{
     display: flex;
     width:30%; 
@@ -62,9 +65,7 @@ body{
     width:auto;
     gap:20px;
 }
-.next li:hover{
-cursor: pointer;
-}
+
 .rightopt{
     display: flex;
     /* background-color: #bb5c5c; */
