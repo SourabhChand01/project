@@ -62,6 +62,9 @@ body{
     width:auto;
     gap:20px;
 }
+.next li:hover{
+cursor: pointer;
+}
 .rightopt{
     display: flex;
     /* background-color: #bb5c5c; */
