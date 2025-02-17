@@ -371,10 +371,12 @@ cursor: pointer;
         overflow-x: hidden;
         margin: 0;
         padding: 0;
+        max-width: 100%;
+        box-sizing: border-box;
     }
     .upper{
         background-image: url("background.jpg");
-        height: 100vh;
+        height: 90vh;
         width: 100vw;    
         background-repeat: no-repeat;
         background-size:cover; 
@@ -630,10 +632,12 @@ cursor: pointer;
         overflow-x: hidden;
         margin: 0;
         padding: 0;
+        max-width: 100%;
+        box-sizing: border-box;
     }
     .upper{
         background-image: url("background.jpg");
-        height: 100vh;
+        height: 90vh;
         width: 100vw;    
         background-repeat: no-repeat;
         background-size:cover; 
@@ -887,10 +891,12 @@ cursor: pointer;
         overflow-x: hidden;
         margin: 0;
         padding: 0;
+        max-width: 100%;
+        box-sizing: border-box;
     }
     .upper{
         background-image: url("background.jpg");
-        height: 110vh;
+        height: 100vh;
         width: 100vw;    
         background-repeat: no-repeat;
         background-size:cover; 
