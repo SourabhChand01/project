@@ -68,6 +68,7 @@ cursor: pointer;
     justify-content: space-around;
     width:auto;
     gap:20px;
+    margin-left:10px;
 }
 
 .rightopt{
